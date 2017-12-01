@@ -2,7 +2,7 @@ indicisionApp/yarn.lock
 indicisionApp/node_modules/
 indicisionApp/src/playground/
 expensifyApp/node_modules/
-expensifyApp/bundle.js
-expensifyApp/bundle.js.map
-expensifyApp/styles.css
-expensifyApp/styles.css.map
+expensifyApp/public/bundle.js
+expensifyApp/public/bundle.js.map
+expensifyApp/public/styles.css
+expensifyApp/public/styles.css.map
